@@ -1,0 +1,1019 @@
+id,gender,race/ethnicity,parental level of education,lunch,employed,test preparation course,math score,physics score,chemistry score,algebra_score
+10-5894942,male,group A,high school,standard,yes,completed,67,67,63,66
+41-1676468,female,group D,some high school,free/reduced,no,none,40,59,55,51
+64-6396924,male,group E,some college,free/reduced,no,none,59,60,50,56
+35-2426788,male,group B,high school,standard,yes,none,77,78,68,74
+60-9387304,male,group E,associate's degree,standard,yes,completed,78,73,68,73
+67-3666190,female,group D,high school,standard,yes,none,63,77,76,72
+27-7702214,female,group A,bachelor's degree,standard,yes,none,62,59,63,61
+46-2257650,male,group E,some college,standard,yes,completed,93,88,84,88
+40-1499649,male,group D,high school,standard,no,none,63,56,65,61
+67-7378468,male,group C,some college,free/reduced,no,none,47,42,45,45
+94-3868069,male,group E,some college,standard,yes,completed,99,83,85,89
+48-7333136,female,group D,high school,standard,yes,completed,80,87,90,86
+07-2637020,male,group D,associate's degree,standard,yes,completed,77,87,85,83
+79-1439578,male,group C,high school,standard,yes,completed,74,74,73,74
+02-7463322,male,group E,some high school,standard,no,completed,81,87,85,84
+16-1290259,male,group E,associate's degree,free/reduced,yes,none,69,61,57,62
+06-3856588,male,group B,high school,standard,yes,none,58,47,42,49
+40-6740713,female,group C,associate's degree,standard,no,completed,54,62,65,60
+66-5986005,female,group C,associate's degree,free/reduced,yes,none,23,44,44,37
+02-1709144,male,group C,some college,free/reduced,no,none,39,32,31,34
+21-5511053,female,group C,associate's degree,standard,no,none,83,76,88,82
+73-7367240,male,group C,associate's degree,standard,no,none,58,52,55,55
+09-8842499,male,group B,some college,standard,no,completed,71,69,73,71
+08-7830102,female,group B,some college,free/reduced,no,none,44,55,54,51
+03-9664079,male,group E,some high school,free/reduced,no,none,46,38,32,39
+27-6310470,male,group C,high school,free/reduced,no,none,51,45,42,46
+75-6585422,female,group C,some high school,standard,yes,none,53,60,56,56
+09-8682910,male,group E,high school,standard,no,none,71,68,60,66
+17-1563641,female,group B,high school,standard,no,completed,74,89,89,84
+71-7133364,female,group A,some high school,free/reduced,yes,none,33,54,51,46
+26-2227065,male,group B,some college,standard,yes,none,87,79,77,81
+57-4542246,male,group A,bachelor's degree,free/reduced,no,none,78,74,73,75
+96-7535545,male,group A,some high school,free/reduced,no,completed,40,41,39,40
+90-6026314,female,group B,associate's degree,standard,yes,completed,65,65,71,67
+71-9866245,female,group B,bachelor's degree,standard,yes,completed,79,88,89,85
+46-1217549,female,group A,bachelor's degree,standard,no,none,68,74,74,72
+53-9893429,female,group C,some college,standard,no,completed,57,77,75,70
+10-1068446,male,group B,high school,free/reduced,yes,none,67,65,54,62
+78-9131277,female,group B,some college,free/reduced,no,completed,58,68,73,66
+23-6065001,male,group E,associate's degree,standard,yes,none,98,81,77,85
+28-1449559,female,group B,master's degree,free/reduced,no,none,54,75,72,67
+75-5232598,male,group D,high school,standard,no,none,77,67,64,69
+39-3709881,male,group E,high school,standard,yes,completed,87,79,82,83
+67-2133164,female,group C,master's degree,standard,yes,none,58,70,70,66
+31-5994390,male,group E,high school,standard,no,none,100,88,87,92
+81-0413688,male,group C,bachelor's degree,standard,yes,none,60,46,51,52
+99-0003127,male,group C,associate's degree,free/reduced,no,none,64,63,57,61
+87-6469079,female,group E,some high school,standard,yes,completed,65,76,78,73
+66-9310433,female,group D,high school,standard,yes,none,68,72,73,71
+66-8939198,male,group C,associate's degree,free/reduced,yes,completed,60,63,57,60
+91-6452667,male,group D,high school,standard,yes,none,65,68,64,66
+86-9516756,female,group C,some high school,free/reduced,yes,none,52,58,60,57
+32-4198857,female,group C,associate's degree,standard,no,none,74,81,85,80
+31-5454590,female,group C,high school,free/reduced,no,none,36,53,49,46
+28-0994326,male,group D,high school,free/reduced,yes,none,57,57,47,54
+22-2281551,female,group C,some college,standard,no,completed,56,60,62,59
+85-6995403,female,group C,bachelor's degree,standard,yes,completed,67,80,84,77
+02-8912370,male,group D,associate's degree,standard,yes,completed,88,87,83,86
+52-6969245,female,group D,some college,free/reduced,yes,none,42,61,51,51
+45-8334197,male,group E,some high school,standard,no,none,68,51,48,56
+56-3286975,male,group D,some college,free/reduced,no,none,76,66,68,70
+40-6069310,female,group E,some high school,standard,yes,none,58,63,59,60
+04-6278041,male,group E,some high school,standard,yes,completed,69,67,62,66
+46-3545588,male,group A,bachelor's degree,standard,no,completed,77,82,78,79
+61-2963076,male,group D,master's degree,standard,no,completed,83,93,97,91
+49-1003522,female,group C,some high school,free/reduced,no,completed,49,74,70,64
+69-2836888,male,group C,high school,standard,no,none,71,60,56,62
+40-6274218,female,group D,some high school,free/reduced,no,none,47,46,49,47
+11-7236921,male,group B,high school,standard,yes,none,79,64,60,68
+53-9893429,female,group C,some college,standard,no,completed,57,77,75,70
+10-1068446,male,group B,high school,free/reduced,yes,none,67,65,54,62
+81-7730561,female,group C,high school,standard,yes,none,60,64,57,60
+89-9333957,female,group C,associate's degree,standard,no,completed,56,68,73,66
+52-2661472,male,group C,associate's degree,standard,yes,none,57,52,47,52
+48-2227296,female,group B,some college,standard,no,none,49,70,63,61
+62-8037284,female,group C,some high school,standard,yes,completed,79,76,81,79
+35-0088406,male,group B,master's degree,free/reduced,yes,none,71,76,67,71
+17-1072711,female,group C,high school,standard,no,none,71,77,70,73
+63-0854008,female,group C,some college,standard,no,none,47,63,59,56
+28-4776667,female,group D,high school,free/reduced,no,none,72,91,81,81
+05-6100538,male,group C,associate's degree,standard,yes,none,78,73,76,76
+88-3609539,male,group D,some high school,standard,yes,none,54,43,45,47
+75-5979370,female,group B,bachelor's degree,standard,no,none,46,59,62,56
+73-1091238,female,group D,some high school,free/reduced,no,none,31,38,42,37
+74-0115019,female,group C,associate's degree,free/reduced,no,none,51,59,59,56
+27-2113200,male,group B,high school,standard,yes,completed,78,76,73,76
+31-8547577,female,group B,associate's degree,free/reduced,yes,none,32,41,39,37
+75-0917089,female,group C,some high school,standard,no,none,53,71,69,64
+40-2934349,female,group C,some college,free/reduced,yes,none,63,76,69,69
+77-4618772,male,group D,some college,standard,yes,none,97,93,88,93
+99-0989324,female,group D,some college,standard,no,none,56,52,61,56
+07-2743419,male,group B,high school,standard,yes,none,72,76,72,73
+64-7029283,male,group C,some college,free/reduced,yes,none,57,47,42,49
+71-7759970,male,group B,some high school,standard,no,none,74,71,70,72
+26-1372591,female,group D,master's degree,standard,yes,none,81,81,87,83
+88-9263193,male,group D,bachelor's degree,standard,no,completed,94,87,93,91
+14-9497897,male,group B,master's degree,free/reduced,yes,none,81,73,72,75
+84-8177967,female,group C,high school,standard,no,completed,58,63,67,63
+16-3851981,female,group E,associate's degree,standard,yes,completed,95,100,100,98
+41-5463742,male,group B,high school,free/reduced,no,none,45,52,49,49
+91-8611181,male,group A,some college,standard,no,none,63,50,49,54
+50-2543793,male,group B,associate's degree,standard,yes,none,60,54,53,56
+76-3139439,male,group C,some college,free/reduced,yes,completed,54,61,62,59
+61-3831858,male,group C,some college,standard,no,completed,75,78,79,77
+43-0727688,male,group E,high school,standard,yes,none,79,78,77,78
+82-6214414,male,group D,high school,standard,no,none,66,67,67,67
+05-6100538,male,group C,associate's degree,standard,yes,none,78,73,76,76
+88-3609539,male,group D,some high school,standard,yes,none,54,43,45,47
+21-3950190,female,group B,some college,standard,no,none,47,58,58,54
+80-0606288,female,group D,bachelor's degree,standard,yes,none,70,78,82,77
+44-1831594,male,group D,high school,standard,yes,none,82,74,73,76
+69-6949135,male,group A,bachelor's degree,standard,yes,none,56,38,44,46
+90-5483871,male,group B,associate's degree,standard,yes,none,92,78,71,80
+23-5237282,male,group C,some college,free/reduced,no,none,30,33,33,32
+53-2228717,female,group C,some college,standard,no,completed,79,88,86,84
+22-1916991,female,group D,some high school,standard,no,none,41,52,47,47
+57-4340938,female,group C,master's degree,standard,yes,none,63,82,71,72
+02-0661800,male,group A,bachelor's degree,free/reduced,yes,none,43,34,33,37
+18-3417070,male,group D,high school,standard,no,none,77,76,74,76
+14-8466058,male,group B,associate's degree,standard,no,completed,76,79,76,77
+31-4874993,female,group E,some college,free/reduced,yes,none,49,61,63,58
+74-4324343,male,group C,associate's degree,standard,no,completed,59,57,55,57
+54-7536976,male,group B,bachelor's degree,free/reduced,yes,none,59,70,58,62
+79-4668884,female,group D,some high school,standard,no,completed,76,90,87,84
+44-3675065,female,group C,high school,standard,no,completed,55,71,71,66
+00-6422961,female,group D,bachelor's degree,standard,yes,completed,78,87,89,85
+90-4114283,female,group C,bachelor's degree,standard,no,completed,51,53,62,55
+94-1215781,female,group C,some high school,standard,yes,completed,41,43,45,43
+71-5289710,female,group D,associate's degree,standard,yes,none,74,78,86,79
+37-2601772,male,group C,master's degree,standard,yes,none,62,54,58,58
+35-3936880,male,group D,associate's degree,standard,no,none,77,71,64,71
+26-5255370,male,group C,some high school,standard,no,none,45,52,45,47
+92-2142603,male,group E,some college,standard,yes,completed,100,84,87,90
+48-3516746,female,group D,associate's degree,free/reduced,yes,completed,83,95,100,93
+44-7305871,female,group E,associate's degree,free/reduced,yes,completed,77,75,82,78
+29-3905238,male,group C,high school,standard,no,completed,66,70,64,67
+24-2317923,male,group B,some college,standard,yes,none,65,63,57,62
+48-7077778,male,group D,associate's degree,standard,yes,none,62,55,56,58
+63-3530663,male,group E,some college,standard,yes,none,55,54,54,54
+39-6953679,male,group C,some high school,free/reduced,yes,none,73,78,69,73
+47-1876238,male,group A,some college,standard,no,completed,73,81,76,77
+93-1602822,female,group B,associate's degree,standard,no,completed,48,66,68,61
+84-5367279,male,group D,some college,free/reduced,no,none,52,44,49,48
+84-3453998,female,group C,some high school,free/reduced,no,none,60,72,64,65
+58-1805366,male,group B,associate's degree,free/reduced,no,none,68,63,57,63
+93-7239774,female,group D,some college,free/reduced,yes,none,65,77,83,75
+00-6877653,female,group D,bachelor's degree,standard,yes,none,86,83,87,85
+17-2616681,female,group B,associate's degree,standard,no,none,55,62,60,59
+44-4816867,male,group B,master's degree,standard,no,completed,80,71,68,73
+71-6900227,female,group B,high school,free/reduced,yes,none,51,57,57,55
+89-9009361,female,group B,some high school,standard,yes,completed,63,61,66,63
+92-2142603,male,group E,some college,standard,yes,completed,100,84,87,90
+48-3516746,female,group D,associate's degree,free/reduced,yes,completed,83,95,100,93
+12-6309474,male,group E,some college,standard,yes,none,60,55,46,54
+08-8123887,female,group E,bachelor's degree,standard,yes,completed,100,100,100,100
+78-6042830,male,group A,associate's degree,free/reduced,no,none,46,44,44,45
+63-1064033,female,group C,some college,standard,no,completed,67,78,80,75
+62-5828431,female,group C,high school,free/reduced,yes,none,54,67,59,60
+18-6686313,female,group B,associate's degree,standard,yes,none,63,79,76,73
+95-0824392,male,group D,bachelor's degree,standard,no,none,68,66,73,69
+61-4491342,female,group C,associate's degree,free/reduced,no,none,54,63,58,58
+78-0098862,female,group C,some college,standard,no,none,43,44,47,45
+45-5797294,male,group B,high school,free/reduced,no,none,64,64,59,62
+92-0102309,female,group E,associate's degree,free/reduced,yes,none,92,87,87,89
+58-4226548,female,group D,associate's degree,free/reduced,yes,none,82,95,93,90
+17-7756950,male,group E,some high school,free/reduced,no,none,84,78,79,80
+52-9798178,female,group D,associate's degree,standard,no,completed,84,98,97,93
+33-5225641,male,group D,associate's degree,free/reduced,no,none,65,63,65,64
+36-9050363,female,group C,bachelor's degree,standard,yes,none,83,92,91,89
+44-7817086,female,group B,some high school,standard,yes,completed,70,75,75,73
+39-9316907,male,group A,bachelor's degree,standard,no,completed,66,72,70,69
+32-6809578,female,group D,bachelor's degree,standard,no,completed,71,87,92,83
+98-6734183,male,group B,bachelor's degree,standard,no,none,66,64,58,63
+98-2329969,female,group B,some high school,standard,yes,completed,57,64,68,63
+54-7892008,female,group C,master's degree,standard,no,none,86,90,93,90
+77-2550346,female,group A,high school,standard,yes,none,80,85,83,83
+00-7027901,female,group B,high school,standard,yes,none,62,60,59,60
+80-0705815,female,group D,some college,standard,yes,none,71,71,76,73
+33-9571216,female,group C,some college,free/reduced,yes,completed,57,66,71,65
+38-7489470,male,group A,some high school,free/reduced,yes,completed,69,64,62,65
+89-4582697,male,group B,some college,standard,yes,completed,83,74,72,76
+67-3205966,female,group D,some college,free/reduced,no,none,50,56,60,55
+92-8105193,female,group C,bachelor's degree,standard,no,none,55,56,56,56
+90-4747779,male,group B,some high school,free/reduced,no,none,55,53,51,53
+07-6157123,female,group D,some college,free/reduced,no,completed,83,93,95,90
+89-5279056,male,group D,high school,standard,no,completed,89,87,86,87
+99-3593726,female,group D,some high school,standard,no,none,51,62,64,59
+96-8157999,female,group C,some college,standard,no,none,48,52,49,50
+83-9396017,female,group E,bachelor's degree,standard,yes,none,84,95,89,89
+11-2083662,female,group C,associate's degree,standard,no,none,69,83,76,76
+65-3749656,female,group C,associate's degree,standard,no,completed,75,85,87,82
+66-1463145,female,group C,master's degree,standard,no,none,91,100,99,97
+24-0266496,male,group B,high school,standard,yes,none,76,77,67,73
+75-8546071,male,group E,some high school,free/reduced,no,none,63,61,59,61
+50-6451644,male,group D,high school,standard,yes,none,73,65,64,67
+84-0708022,male,group B,some high school,free/reduced,yes,completed,52,63,53,56
+64-3973497,male,group B,some high school,standard,yes,completed,58,57,53,56
+34-1038440,female,group B,some high school,standard,no,none,33,51,51,45
+14-1198125,male,group E,some high school,free/reduced,yes,none,68,62,61,64
+49-4471015,female,group C,associate's degree,standard,yes,completed,77,91,89,86
+90-1698272,female,group C,bachelor's degree,standard,yes,none,64,64,66,65
+07-3491758,female,group D,some high school,free/reduced,no,none,39,49,48,45
+61-5608094,male,group D,bachelor's degree,standard,no,none,50,46,48,48
+16-0235254,male,group A,master's degree,free/reduced,no,none,53,57,51,54
+92-6932326,female,group B,associate's degree,standard,yes,completed,54,62,70,62
+84-2741846,male,group D,high school,standard,no,none,74,63,65,67
+19-9994147,female,group D,associate's degree,standard,no,completed,50,63,65,59
+54-4457444,male,group E,associate's degree,standard,yes,none,55,54,47,52
+59-4352014,male,group C,some college,standard,yes,none,77,64,70,70
+83-5927324,female,group B,some high school,standard,yes,completed,49,64,67,60
+87-8424348,female,group D,associate's degree,free/reduced,yes,none,66,83,82,77
+32-8360784,male,group B,some high school,standard,yes,completed,77,74,75,75
+54-9068594,female,group A,master's degree,standard,yes,completed,74,78,84,79
+26-2506581,male,group C,some college,standard,yes,none,85,78,81,81
+24-4659058,female,group A,some college,standard,no,none,77,86,84,82
+68-0902182,female,group B,associate's degree,standard,no,none,64,62,66,64
+20-0111886,female,group D,high school,free/reduced,no,completed,61,69,68,66
+35-9252052,male,group D,associate's degree,standard,no,none,97,88,85,90
+86-2669751,male,group C,some college,standard,no,completed,66,75,70,70
+85-6131980,male,group C,some high school,standard,yes,none,62,66,64,64
+12-1440655,female,group E,some high school,standard,no,completed,64,80,77,74
+74-1391488,female,group B,bachelor's degree,free/reduced,yes,none,55,57,60,57
+52-8358257,female,group B,associate's degree,standard,yes,none,53,72,66,64
+32-4113977,female,group D,some college,free/reduced,no,none,71,81,77,76
+23-6790048,male,group B,high school,free/reduced,yes,completed,66,59,68,64
+76-6536996,male,group C,associate's degree,standard,yes,none,68,61,62,64
+40-4688539,male,group D,some college,standard,no,none,89,90,83,87
+41-6645399,male,group C,associate's degree,standard,no,completed,65,69,74,69
+56-2119732,female,group B,some high school,standard,yes,none,43,48,44,45
+08-4584042,female,group D,master's degree,standard,yes,none,79,77,83,80
+27-6956282,male,group D,bachelor's degree,standard,no,none,99,94,97,97
+86-0112767,male,group D,some high school,standard,yes,none,82,69,72,74
+25-9565548,male,group D,some college,free/reduced,no,completed,35,36,39,37
+53-1818534,female,group D,bachelor's degree,free/reduced,no,none,61,71,73,68
+20-8728870,female,group D,high school,standard,yes,none,76,80,81,79
+12-6764152,male,group C,associate's degree,free/reduced,yes,completed,94,83,82,86
+40-6687422,female,group C,high school,standard,yes,none,75,90,78,81
+15-5071936,male,group B,some college,standard,yes,none,81,75,70,75
+98-8832230,male,group C,some college,free/reduced,yes,none,35,44,33,37
+27-0021472,male,group C,some college,standard,no,none,76,74,72,74
+39-0070790,female,group B,bachelor's degree,standard,no,none,58,79,82,73
+23-6018567,male,group C,associate's degree,standard,no,completed,100,91,90,94
+43-0201577,female,group C,bachelor's degree,standard,yes,none,53,68,64,62
+43-2935476,female,group D,high school,standard,yes,none,82,95,96,91
+40-7285970,male,group B,associate's degree,standard,no,none,76,62,64,67
+97-0632306,male,group C,bachelor's degree,standard,yes,completed,83,75,75,78
+33-5659533,female,group D,some college,standard,no,none,72,84,82,79
+51-8109140,male,group D,associate's degree,standard,yes,completed,76,76,83,78
+67-3434692,male,group D,some high school,standard,yes,none,66,64,58,63
+18-5827991,male,group C,some college,standard,no,none,63,65,63,64
+31-3424479,male,group B,some high school,standard,yes,none,36,34,28,33
+02-0181953,male,group C,high school,standard,yes,none,68,74,71,71
+13-6461621,female,group C,some high school,free/reduced,no,completed,40,52,42,45
+87-3639199,male,group D,some high school,standard,yes,none,68,71,61,67
+19-7132551,male,group C,associate's degree,standard,yes,completed,56,54,52,54
+02-8671457,female,group D,associate's degree,free/reduced,yes,none,74,83,80,79
+30-1942619,female,group D,some college,free/reduced,no,none,53,70,71,65
+67-4166716,male,group B,some high school,standard,yes,none,88,65,70,74
+75-3680833,male,group D,some high school,standard,no,none,67,63,61,64
+33-3834271,female,group B,associate's degree,standard,no,none,60,76,65,67
+51-6563952,female,group C,high school,free/reduced,yes,none,51,61,54,55
+13-2775607,female,group D,some high school,standard,no,none,53,66,59,59
+52-2981381,male,group A,bachelor's degree,standard,no,none,80,78,74,77
+72-0892181,female,group E,some high school,standard,yes,none,69,71,67,69
+05-2717064,female,group B,some high school,free/reduced,no,none,64,79,70,71
+11-5765320,female,group D,associate's degree,free/reduced,no,completed,80,87,89,85
+83-1787112,female,group A,some high school,standard,yes,none,58,72,62,64
+36-2682801,female,group C,high school,standard,yes,none,39,46,50,45
+44-1525249,male,group D,some high school,standard,no,none,64,56,50,57
+05-3371222,male,group D,associate's degree,standard,yes,none,61,66,63,63
+61-9857969,male,group D,some high school,standard,no,completed,90,82,88,87
+74-8301298,male,group D,some high school,standard,no,none,73,71,64,69
+17-9391788,male,group C,associate's degree,standard,yes,none,73,73,70,72
+35-8450190,female,group D,associate's degree,standard,no,none,67,76,77,73
+71-5977323,female,group B,some college,standard,yes,none,57,58,62,59
+71-7041278,female,group E,some college,standard,yes,none,65,73,72,70
+76-4392545,female,group C,some high school,standard,no,none,71,72,71,71
+07-2376941,female,group D,some high school,standard,yes,none,59,69,72,67
+43-7376543,male,group B,high school,standard,yes,completed,74,71,65,70
+41-1783985,female,group E,high school,standard,yes,none,93,100,93,95
+17-2175000,female,group B,some high school,standard,yes,completed,85,93,92,90
+68-7315684,female,group E,some high school,standard,no,none,76,83,79,79
+54-1431692,female,group D,high school,free/reduced,no,none,58,72,70,67
+20-8131177,female,group E,associate's degree,standard,yes,none,72,77,77,75
+74-2920583,female,group B,high school,standard,yes,none,40,49,47,45
+51-2232653,male,group D,high school,standard,no,completed,75,73,66,71
+77-2293110,male,group D,some high school,standard,no,none,85,81,80,82
+32-4905121,male,group E,associate's degree,standard,no,completed,100,100,100,100
+69-8967411,female,group B,some college,free/reduced,no,completed,53,65,66,61
+04-3395603,male,group D,some college,free/reduced,yes,none,40,42,39,40
+72-5710469,male,group B,bachelor's degree,free/reduced,no,none,49,49,49,49
+45-3918354,male,group C,associate's degree,standard,yes,none,77,80,80,79
+81-5348789,female,group D,high school,standard,yes,none,82,89,84,85
+99-3759144,male,group C,some college,standard,yes,none,55,48,42,48
+80-2247080,female,group C,some high school,free/reduced,yes,none,62,71,77,70
+80-3930455,male,group B,high school,standard,no,completed,69,63,59,64
+35-3495111,male,group C,associate's degree,standard,no,none,78,74,76,76
+28-6717158,female,group B,high school,free/reduced,yes,completed,71,77,82,77
+53-4872567,male,group D,some college,free/reduced,yes,completed,59,71,66,65
+28-9399319,female,group D,high school,free/reduced,no,none,60,75,70,68
+90-3989488,female,group C,bachelor's degree,free/reduced,no,completed,43,60,60,54
+54-1582443,female,group C,some high school,standard,no,none,77,83,86,82
+61-8154464,male,group D,some high school,free/reduced,no,none,50,47,46,48
+42-4916238,female,group E,bachelor's degree,free/reduced,no,none,56,58,52,55
+63-5641672,male,group B,high school,standard,yes,none,69,58,50,59
+24-9770772,male,group D,high school,standard,yes,none,47,43,39,43
+13-4229808,male,group B,some college,free/reduced,no,none,43,28,24,32
+55-8350378,male,group A,some high school,free/reduced,yes,none,48,39,40,42
+28-2370029,male,group C,high school,free/reduced,no,none,55,62,49,55
+05-2434426,male,group C,some college,standard,yes,none,73,68,66,69
+09-1477108,male,group D,bachelor's degree,standard,yes,none,71,63,66,67
+81-6037286,female,group B,some college,standard,yes,none,54,57,60,57
+93-1451403,male,group C,high school,standard,yes,none,66,61,63,63
+08-7478241,male,group A,master's degree,standard,no,none,63,63,67,64
+03-9136327,female,group D,bachelor's degree,standard,yes,none,66,81,73,73
+38-8695772,male,group C,bachelor's degree,standard,no,completed,79,80,75,78
+15-1542623,male,group D,associate's degree,free/reduced,no,completed,73,69,70,71
+90-5166335,female,group C,some high school,standard,no,none,36,57,53,49
+87-9723136,male,group C,associate's degree,free/reduced,yes,none,50,48,43,47
+00-1446382,male,group E,some college,standard,yes,completed,87,78,80,82
+71-5009797,male,group C,associate's degree,standard,no,none,71,68,63,67
+35-1941717,female,group C,associate's degree,standard,no,completed,85,87,94,89
+46-5236421,female,group C,high school,standard,no,completed,58,67,64,63
+07-1177104,male,group C,some college,standard,yes,none,86,83,81,83
+96-1414139,female,group D,some high school,free/reduced,yes,none,64,86,89,80
+70-6359256,male,group D,some college,standard,no,none,83,85,79,82
+78-1057794,male,group E,high school,free/reduced,yes,completed,58,56,49,54
+16-7317176,female,group C,some college,free/reduced,no,completed,59,83,81,74
+93-7080627,female,group C,high school,standard,no,none,40,58,54,51
+63-9135785,male,group D,associate's degree,standard,no,completed,82,83,85,83
+19-8252167,male,group E,some high school,standard,yes,none,87,84,80,84
+55-3683314,female,group C,some high school,standard,yes,none,62,65,64,64
+27-6057689,male,group B,associate's degree,free/reduced,no,completed,76,80,78,78
+09-8599739,female,group A,high school,standard,yes,none,63,69,60,64
+01-3617203,male,group D,some college,free/reduced,no,completed,58,60,59,59
+86-5320872,male,group D,associate's degree,standard,yes,completed,61,63,65,63
+63-9400422,male,group C,some college,standard,yes,none,78,69,71,73
+79-0335019,female,group C,bachelor's degree,free/reduced,no,completed,78,90,81,83
+13-1647192,male,group C,some college,standard,no,none,56,54,43,51
+11-6001310,male,group D,some high school,standard,no,none,96,83,82,87
+94-4731616,male,group C,high school,standard,yes,none,48,43,40,44
+06-4617102,male,group C,associate's degree,standard,no,completed,70,76,72,73
+07-3124527,male,group D,some college,free/reduced,yes,none,43,68,58,56
+04-4753350,female,group E,high school,free/reduced,yes,none,45,46,49,47
+58-4212866,female,group C,associate's degree,standard,no,none,58,68,62,63
+84-9765248,female,group A,high school,standard,no,completed,70,73,80,74
+57-0833148,female,group E,some high school,standard,yes,none,60,61,58,60
+85-6266752,male,group C,some high school,free/reduced,yes,none,52,53,47,51
+06-4419090,male,group C,associate's degree,free/reduced,yes,none,61,62,54,59
+19-4335151,female,group D,some high school,standard,yes,none,55,70,61,62
+29-5616282,male,group B,high school,standard,yes,completed,80,80,79,80
+12-0297013,male,group D,some college,free/reduced,yes,none,63,60,54,59
+23-1946002,female,group B,master's degree,standard,yes,none,79,79,87,82
+74-1238788,male,group A,associate's degree,standard,yes,none,74,78,72,75
+29-5567681,female,group B,some college,free/reduced,no,completed,46,58,64,56
+66-8773063,female,group B,some high school,standard,no,completed,72,88,92,84
+04-4335396,female,group E,some high school,free/reduced,no,none,58,64,64,62
+52-6453212,female,group E,master's degree,standard,no,none,47,50,47,48
+97-2761190,female,group D,bachelor's degree,standard,no,completed,68,78,84,77
+02-4814157,male,group D,bachelor's degree,free/reduced,no,completed,68,71,67,69
+32-7317797,female,group D,high school,standard,yes,none,65,75,68,69
+25-3445404,female,group B,associate's degree,standard,no,none,50,54,51,52
+22-7325137,female,group B,high school,free/reduced,no,completed,48,71,68,62
+42-3232707,female,group B,bachelor's degree,standard,yes,none,58,60,64,61
+42-5591312,male,group C,some high school,free/reduced,no,completed,71,74,68,71
+57-6572074,male,group D,some high school,free/reduced,yes,completed,58,52,48,53
+70-4348274,female,group A,some college,free/reduced,yes,none,66,90,83,80
+05-7335057,male,group C,some college,free/reduced,yes,none,44,53,43,47
+63-0835418,female,group B,some high school,standard,no,completed,51,63,66,60
+29-2477873,male,group A,some college,standard,yes,completed,78,83,77,79
+24-7825786,male,group C,high school,standard,yes,none,72,71,65,69
+52-5296636,female,group D,associate's degree,standard,no,none,60,64,67,64
+97-4774158,female,group C,associate's degree,free/reduced,no,none,55,61,60,59
+42-2632299,male,group B,some high school,standard,yes,none,64,67,64,65
+11-9857954,female,group C,some high school,free/reduced,yes,none,57,64,60,60
+88-3830848,female,group A,high school,standard,yes,none,70,75,74,73
+44-4698334,male,group D,some high school,standard,yes,completed,84,72,76,77
+28-0515423,female,group B,some college,standard,yes,completed,66,71,76,71
+68-4504092,female,group C,bachelor's degree,free/reduced,yes,completed,56,65,73,65
+12-6335895,male,group E,some college,free/reduced,no,completed,59,53,56,56
+00-0103467,female,group E,bachelor's degree,standard,no,none,87,89,84,87
+36-9964098,male,group E,high school,free/reduced,no,none,73,75,64,71
+82-7699003,female,group A,high school,standard,yes,none,85,91,89,88
+31-6534498,male,group B,some college,free/reduced,yes,none,49,54,42,48
+75-5447409,female,group C,bachelor's degree,standard,no,completed,82,87,90,86
+51-5487655,female,group D,some college,standard,no,none,80,90,90,87
+38-2544914,female,group E,high school,standard,yes,none,48,51,43,47
+37-9060581,female,group D,high school,standard,yes,completed,85,83,94,87
+85-0521352,female,group E,some high school,standard,yes,completed,70,78,76,75
+59-5249024,male,group E,associate's degree,standard,no,completed,89,84,81,85
+24-6470404,female,group D,high school,standard,yes,completed,72,86,79,79
+20-5249972,female,group D,some high school,free/reduced,yes,none,80,86,87,84
+11-0659008,female,group D,some high school,free/reduced,yes,none,43,57,50,50
+15-7303181,male,group C,some high school,free/reduced,yes,completed,54,61,61,59
+52-3678592,male,group A,associate's degree,free/reduced,yes,completed,82,82,78,81
+85-2234629,male,group C,bachelor's degree,free/reduced,yes,none,74,80,78,77
+53-3590340,female,group C,some college,standard,no,none,63,62,64,63
+05-2237800,female,group C,high school,free/reduced,yes,none,47,56,51,51
+42-4118165,female,group C,some college,free/reduced,no,none,13,29,23,22
+57-4000884,male,group D,some college,free/reduced,yes,none,67,58,56,60
+77-7379862,male,group C,some high school,standard,no,none,57,59,54,57
+04-4772658,female,group B,some high school,standard,yes,none,64,78,83,75
+68-3857709,female,group D,associate's degree,standard,no,none,85,100,100,95
+48-3188751,female,group B,associate's degree,standard,yes,completed,70,80,86,79
+99-0537253,male,group B,bachelor's degree,standard,yes,completed,90,73,83,82
+57-7289261,female,group A,some college,free/reduced,no,completed,53,70,69,64
+02-2610858,male,group C,some college,standard,no,completed,74,73,75,74
+99-2752000,male,group A,associate's degree,standard,yes,completed,61,71,67,66
+21-5970461,female,group C,some high school,standard,no,completed,55,74,73,67
+92-0895384,female,group B,some college,standard,yes,completed,65,63,66,65
+70-0855897,female,group A,high school,standard,no,none,77,77,79,78
+07-9606700,male,group C,associate's degree,standard,yes,none,74,61,56,64
+09-9189869,male,group D,some college,standard,no,none,94,92,85,90
+08-9637837,female,group B,associate's degree,standard,no,completed,54,64,68,62
+16-4888855,male,group A,high school,standard,no,none,52,49,43,48
+96-6592449,male,group D,some college,standard,yes,none,73,75,71,73
+48-7358336,male,group C,high school,standard,no,none,81,72,58,70
+92-4814341,female,group B,bachelor's degree,free/reduced,yes,none,62,75,72,70
+47-8351130,female,group C,master's degree,free/reduced,yes,none,55,60,61,59
+69-0593733,male,group C,some high school,free/reduced,no,completed,55,61,61,59
+78-6715211,female,group D,some high school,standard,no,none,61,62,61,61
+73-7288985,male,group E,high school,standard,no,none,75,70,64,70
+52-8310801,male,group E,some college,free/reduced,no,none,79,65,59,68
+97-3983709,female,group C,some high school,standard,no,none,70,70,68,69
+20-0790552,male,group A,some college,standard,yes,none,72,65,59,65
+88-0903554,female,group C,some high school,free/reduced,yes,none,38,46,33,39
+06-4906335,female,group A,bachelor's degree,standard,no,none,57,71,63,64
+23-5999179,male,group D,some high school,standard,yes,none,76,71,70,72
+56-0108062,male,group C,some college,free/reduced,yes,none,45,45,38,43
+80-0618670,male,group D,associate's degree,standard,yes,none,77,73,74,75
+99-0363002,male,group C,high school,standard,no,none,40,39,30,36
+94-5183078,female,group E,some college,standard,no,none,78,83,78,80
+58-9386542,female,group A,master's degree,free/reduced,no,none,63,65,66,65
+75-7476854,male,group C,associate's degree,standard,no,none,83,70,73,75
+92-1112960,male,group C,associate's degree,free/reduced,yes,none,55,52,47,51
+74-9834425,male,group B,some college,standard,no,completed,88,78,76,81
+76-4139787,male,group C,bachelor's degree,standard,yes,none,82,83,85,83
+08-5396187,male,group E,bachelor's degree,standard,no,none,86,71,71,76
+32-8897941,female,group C,associate's degree,free/reduced,no,none,61,74,72,69
+03-0330182,female,group D,some college,standard,yes,completed,78,85,93,85
+21-4945123,male,group C,associate's degree,standard,no,none,67,63,66,65
+20-3590465,female,group E,some high school,standard,yes,none,83,87,83,84
+53-4292953,male,group C,some high school,standard,yes,none,68,74,69,70
+79-5253775,male,group C,some college,standard,yes,none,53,52,44,50
+47-1693935,male,group D,associate's degree,standard,yes,none,91,88,90,90
+14-4733886,male,group B,associate's degree,free/reduced,no,none,67,66,66,66
+34-3248504,female,group C,high school,standard,yes,completed,53,64,62,60
+26-0281288,female,group C,master's degree,standard,yes,completed,86,100,100,95
+18-1175495,male,group E,some high school,free/reduced,yes,completed,75,70,61,69
+90-3116799,male,group C,some college,standard,no,none,55,38,35,43
+16-1528922,male,group D,bachelor's degree,standard,yes,completed,93,86,95,91
+93-1185527,female,group E,high school,standard,yes,none,62,71,66,66
+68-8139274,male,group C,some college,free/reduced,yes,none,83,76,71,77
+12-9134802,male,group D,some high school,standard,no,none,73,72,64,70
+84-8447224,female,group C,high school,free/reduced,no,none,57,52,53,54
+94-6853227,female,group C,some college,standard,no,none,70,75,75,73
+18-0527168,female,group B,high school,standard,no,completed,55,62,64,60
+61-1426966,male,group C,high school,standard,yes,none,65,56,51,57
+70-4473992,female,group C,some high school,standard,no,completed,76,85,88,83
+24-6537301,male,group C,master's degree,free/reduced,yes,none,59,47,46,51
+96-5167902,male,group C,associate's degree,standard,no,completed,74,73,77,75
+25-8382899,male,group B,some high school,standard,no,none,65,59,60,61
+20-6820313,male,group B,some college,standard,no,completed,89,87,89,88
+77-3048665,female,group B,master's degree,standard,yes,none,71,82,82,78
+13-1011323,male,group C,some college,free/reduced,no,completed,63,69,59,64
+19-4704293,male,group C,some high school,standard,yes,completed,57,55,60,57
+43-0103564,male,group B,some college,free/reduced,yes,completed,56,67,56,60
+76-1875305,male,group A,some high school,free/reduced,no,completed,49,44,41,45
+24-1888363,female,group C,some college,free/reduced,yes,completed,28,44,50,41
+16-1080572,female,group C,bachelor's degree,free/reduced,yes,none,69,73,71,71
+68-5590042,female,group D,some high school,free/reduced,no,none,49,62,60,57
+21-3113455,male,group B,some high school,standard,yes,completed,67,62,58,62
+04-0098129,female,group B,some college,free/reduced,yes,completed,74,85,82,80
+47-2565751,female,group C,bachelor's degree,standard,no,completed,47,67,63,59
+06-4199230,female,group C,some college,standard,no,none,63,63,69,65
+52-3836006,male,group C,some college,standard,no,none,73,51,53,59
+39-9697956,female,group D,some college,standard,no,none,91,94,96,94
+59-9083713,male,group B,some college,standard,yes,none,80,87,79,82
+31-1619269,female,group C,associate's degree,standard,yes,none,66,73,68,69
+55-3403736,male,group B,some college,standard,yes,none,52,48,43,48
+69-7778861,female,group B,some college,standard,yes,none,65,71,65,67
+69-9723596,male,group D,some college,standard,no,completed,83,75,71,76
+75-3762185,female,group C,some high school,free/reduced,yes,none,80,85,78,81
+38-8456465,male,group E,bachelor's degree,free/reduced,yes,none,68,68,59,65
+38-9748411,male,group C,some college,free/reduced,no,completed,68,73,68,70
+38-7778276,male,group C,associate's degree,free/reduced,yes,none,62,43,45,50
+82-1254635,female,group B,some high school,standard,no,none,76,88,84,83
+30-1415415,female,group C,bachelor's degree,free/reduced,no,none,77,79,83,80
+27-6085698,female,group E,master's degree,free/reduced,no,none,83,81,83,82
+65-1149418,female,group C,some college,free/reduced,yes,none,71,78,82,77
+00-2097836,male,group D,some college,free/reduced,yes,completed,86,91,89,89
+47-9865834,male,group B,master's degree,standard,no,none,93,96,96,95
+71-1848640,female,group B,associate's degree,free/reduced,yes,none,60,64,60,61
+07-3520211,female,group D,some high school,standard,no,none,57,56,58,57
+38-5129682,male,group C,bachelor's degree,standard,yes,none,84,79,74,79
+44-3482234,female,group D,bachelor's degree,standard,no,none,66,71,75,71
+78-3070857,male,group D,master's degree,standard,yes,none,85,69,74,76
+82-9697788,female,group D,master's degree,standard,no,completed,57,68,76,67
+17-3629615,female,group C,some high school,standard,yes,none,41,49,49,46
+45-3170011,female,group C,some high school,standard,yes,none,75,76,76,76
+57-1668027,male,group D,high school,free/reduced,yes,none,65,63,60,63
+03-3423897,male,group E,some college,standard,no,none,78,65,60,68
+44-0709079,female,group B,some high school,free/reduced,yes,none,26,34,28,29
+37-4323746,male,group E,some college,free/reduced,yes,none,71,64,66,67
+76-6512613,male,group B,bachelor's degree,standard,yes,completed,86,92,93,90
+92-8142318,male,group B,associate's degree,standard,yes,completed,89,84,81,85
+27-2805755,female,group B,high school,free/reduced,yes,none,53,64,63,60
+66-2157012,female,group C,associate's degree,standard,yes,none,87,87,92,89
+20-5476609,male,group D,associate's degree,standard,yes,none,71,57,59,62
+58-8145610,male,group D,high school,standard,yes,none,77,80,72,76
+74-2267321,female,group C,high school,free/reduced,no,completed,43,48,53,48
+22-1798514,female,group C,associate's degree,standard,no,none,88,91,86,88
+81-9752712,male,group E,some high school,standard,yes,none,86,76,63,75
+42-4785687,female,group E,some high school,free/reduced,yes,completed,45,56,55,52
+43-5820833,male,group C,some college,standard,no,none,69,56,57,61
+87-5601018,female,group D,high school,standard,no,none,65,70,72,69
+47-1854458,male,group E,some college,free/reduced,yes,none,81,79,71,77
+64-1103984,female,group A,some high school,standard,yes,none,90,88,86,88
+82-6578344,female,group E,associate's degree,standard,no,none,78,72,71,74
+86-2931043,female,group C,master's degree,standard,no,completed,71,79,89,80
+60-5540359,female,group C,some high school,standard,yes,none,75,80,72,76
+72-5781867,male,group C,bachelor's degree,free/reduced,yes,none,70,60,56,62
+10-6670669,male,group B,associate's degree,standard,yes,none,54,52,48,51
+14-2861961,male,group B,high school,standard,no,none,49,36,32,39
+00-5998052,male,group B,associate's degree,free/reduced,yes,completed,80,82,82,81
+76-7327215,female,group E,bachelor's degree,standard,no,none,78,89,93,87
+90-6182981,male,group C,bachelor's degree,standard,no,none,89,77,82,83
+80-6579666,female,group C,bachelor's degree,standard,no,completed,65,83,82,77
+43-9933598,male,group D,associate's degree,standard,no,none,78,74,71,74
+20-6266979,female,group D,high school,standard,no,none,69,85,78,77
+72-8879856,male,group D,some college,free/reduced,no,none,49,47,48,48
+70-3194430,female,group D,master's degree,free/reduced,yes,none,50,64,66,60
+75-6733606,female,group E,some college,standard,yes,none,79,76,71,75
+51-1447908,female,group D,some college,standard,yes,completed,89,92,97,93
+17-0189317,male,group A,associate's degree,free/reduced,yes,completed,48,61,59,56
+74-9404783,female,group A,bachelor's degree,standard,no,none,63,67,71,67
+02-4835123,female,group C,some college,standard,no,none,88,100,88,92
+87-7088443,female,group D,associate's degree,standard,no,none,66,73,73,71
+08-5431945,female,group B,some college,free/reduced,yes,none,45,59,56,53
+91-3415938,female,group E,some high school,standard,no,completed,62,78,73,71
+12-8701263,male,group D,some college,free/reduced,no,completed,74,80,86,80
+38-1611396,female,group D,bachelor's degree,free/reduced,no,none,82,87,90,86
+86-8681330,male,group E,some college,free/reduced,no,completed,83,63,63,70
+36-0160440,female,group D,some high school,free/reduced,no,completed,60,72,76,69
+91-1465608,female,group D,high school,standard,no,none,66,73,72,70
+03-3939002,male,group C,bachelor's degree,free/reduced,no,none,76,66,68,70
+14-5348345,male,group B,associate's degree,standard,yes,completed,75,74,76,75
+82-4528052,male,group B,some college,standard,yes,completed,77,72,79,76
+05-0415832,female,group E,some college,free/reduced,yes,none,82,88,86,85
+46-7479552,male,group C,associate's degree,standard,yes,completed,63,59,60,61
+66-2822542,female,group D,high school,standard,yes,none,70,85,85,80
+90-3853614,male,group D,associate's degree,standard,no,completed,84,71,76,77
+94-9404531,male,group C,high school,standard,yes,completed,68,60,63,64
+62-9970012,male,group C,some college,free/reduced,no,none,56,58,50,55
+90-2203769,female,group C,associate's degree,free/reduced,yes,none,37,46,43,42
+42-6998765,female,group D,some high school,standard,yes,none,49,56,53,53
+21-0416326,female,group E,some college,standard,yes,completed,100,100,100,100
+27-1034913,male,group D,some college,standard,no,none,83,68,65,72
+27-7002581,female,group E,master's degree,free/reduced,no,completed,92,100,98,97
+25-6509116,male,group E,master's degree,free/reduced,no,none,71,62,66,66
+94-3059666,male,group D,associate's degree,free/reduced,no,completed,72,76,73,74
+81-2371116,female,group D,bachelor's degree,free/reduced,no,none,37,53,48,46
+90-5691653,male,group C,bachelor's degree,free/reduced,no,none,35,43,35,38
+02-5047154,male,group C,some college,free/reduced,no,none,69,68,62,66
+46-4419952,female,group C,bachelor's degree,standard,yes,none,65,73,81,73
+26-6023048,male,group E,high school,free/reduced,no,none,56,48,36,47
+11-6364817,female,group D,high school,standard,yes,none,40,46,57,48
+43-3523589,female,group E,high school,standard,no,none,60,62,60,61
+24-4131243,female,group C,some high school,standard,yes,none,57,66,73,65
+90-7804279,female,group C,some high school,free/reduced,yes,completed,58,62,66,62
+81-7908581,female,group D,some college,standard,no,completed,74,95,94,88
+38-9739555,female,group B,some college,standard,no,none,77,77,83,79
+29-9909797,male,group E,some college,free/reduced,no,none,66,57,53,59
+38-3666821,female,group D,some college,standard,yes,completed,62,79,87,76
+11-8014377,male,group C,high school,free/reduced,no,none,29,38,27,31
+02-9016592,female,group B,some college,standard,no,none,70,73,66,70
+16-7207322,male,group A,associate's degree,free/reduced,yes,none,67,64,60,64
+65-1426252,female,group C,high school,standard,yes,completed,81,91,94,89
+53-1855933,male,group C,associate's degree,free/reduced,no,none,56,50,43,50
+26-9469643,female,group D,some college,free/reduced,yes,none,61,79,76,72
+25-4443184,female,group D,high school,free/reduced,no,completed,47,54,56,52
+49-7061025,male,group A,bachelor's degree,standard,no,completed,88,87,94,90
+36-5677067,male,group C,some college,standard,yes,completed,51,52,52,52
+28-6850315,male,group C,master's degree,standard,yes,none,68,60,62,63
+29-5971133,female,group B,associate's degree,standard,no,none,68,71,71,70
+16-1411691,female,group B,high school,free/reduced,yes,none,47,49,50,49
+85-1205679,male,group E,master's degree,free/reduced,yes,completed,84,77,82,81
+77-3885780,male,group B,some college,free/reduced,no,none,69,72,68,70
+36-7873255,female,group D,bachelor's degree,standard,yes,completed,52,69,75,65
+78-1747879,male,group B,associate's degree,standard,no,none,80,79,79,79
+35-9161390,male,group C,bachelor's degree,standard,no,none,100,84,88,91
+23-9902394,male,group C,high school,standard,no,completed,53,59,64,59
+76-8405091,female,group B,master's degree,standard,yes,completed,59,73,74,69
+23-5598765,female,group B,some college,standard,no,none,78,96,89,88
+12-3718560,female,group B,associate's degree,standard,no,none,84,87,89,87
+56-1468163,female,group C,high school,free/reduced,yes,none,52,72,71,65
+57-4049436,male,group C,associate's degree,free/reduced,yes,none,81,78,75,78
+35-0544731,female,group C,associate's degree,standard,no,completed,90,95,100,95
+76-3943930,female,group A,high school,standard,no,none,63,73,66,67
+17-9615130,male,group D,bachelor's degree,standard,yes,completed,100,97,100,99
+24-1678394,female,group B,some college,standard,no,none,56,63,62,60
+28-5610063,female,group B,some college,standard,yes,none,46,54,54,51
+25-2250572,female,group B,high school,free/reduced,no,completed,75,85,90,83
+57-1666879,female,group A,some college,standard,no,none,46,51,54,50
+38-9769056,male,group A,some high school,free/reduced,yes,none,42,40,40,41
+45-8666205,female,group C,some high school,standard,yes,completed,77,86,90,84
+93-2388544,female,group C,some college,free/reduced,no,none,40,63,56,53
+27-6696671,female,group D,high school,standard,yes,none,69,71,76,72
+43-5989930,male,group C,high school,standard,yes,none,43,50,45,46
+67-4420552,female,group C,associate's degree,standard,no,completed,69,75,71,72
+99-9379430,female,group D,bachelor's degree,standard,no,completed,89,93,100,94
+86-6304803,male,group B,associate's degree,standard,no,none,44,34,36,38
+81-8978705,male,group D,high school,free/reduced,yes,completed,82,83,77,81
+95-6323835,male,group D,associate's degree,free/reduced,no,none,72,72,65,70
+11-5023159,male,group C,bachelor's degree,standard,yes,none,64,53,50,56
+85-8921138,male,group D,some high school,standard,yes,none,89,73,70,77
+91-6742297,male,group E,associate's degree,free/reduced,no,none,58,53,54,55
+89-9889756,female,group A,high school,standard,no,completed,63,81,78,74
+65-0715181,female,group A,bachelor's degree,standard,no,none,54,66,69,63
+13-1609465,male,group C,high school,free/reduced,yes,completed,83,78,82,81
+12-8210498,female,group C,high school,standard,no,none,57,74,64,65
+82-8552154,female,group C,high school,standard,yes,none,52,47,48,49
+61-7589672,female,group D,high school,standard,yes,completed,75,93,97,88
+05-8702904,male,group E,high school,free/reduced,no,completed,67,66,64,66
+03-3037650,male,group B,some high school,standard,yes,none,58,60,53,57
+31-5651603,female,group B,bachelor's degree,free/reduced,no,none,63,66,68,66
+16-6902760,female,group D,some high school,free/reduced,no,none,49,64,57,57
+91-7691363,female,group D,some college,free/reduced,yes,none,38,47,52,46
+49-8120997,female,group B,some college,standard,no,completed,74,85,84,81
+46-5192549,male,group C,associate's degree,free/reduced,yes,completed,69,84,82,78
+29-6264068,female,group D,associate's degree,standard,yes,none,77,82,80,80
+25-0179570,female,group A,master's degree,free/reduced,yes,none,40,59,59,53
+49-7255825,female,group B,master's degree,standard,no,completed,96,98,100,98
+78-1579996,female,group B,bachelor's degree,standard,no,none,85,86,85,85
+94-0174104,male,group D,associate's degree,standard,yes,none,85,77,76,79
+69-2274997,male,group C,high school,standard,yes,none,72,59,54,62
+13-0634820,female,group B,associate's degree,free/reduced,no,none,63,78,73,71
+68-6993480,male,group B,some high school,standard,yes,none,58,67,58,61
+46-7219965,male,group B,bachelor's degree,free/reduced,yes,none,58,64,54,59
+70-2766458,male,group C,high school,free/reduced,yes,none,51,57,53,54
+60-6026465,female,group D,master's degree,standard,yes,completed,100,100,100,100
+36-7635875,female,group D,master's degree,standard,no,none,77,84,92,84
+69-1650741,male,group E,bachelor's degree,free/reduced,yes,none,63,56,56,58
+81-5277189,female,group C,some college,standard,yes,none,64,67,68,66
+61-5146251,male,group E,high school,standard,no,none,100,82,80,87
+36-7140771,male,group C,associate's degree,standard,no,none,66,65,65,65
+82-2919811,male,group E,bachelor's degree,standard,yes,none,87,87,84,86
+30-8550316,male,group C,high school,standard,no,none,73,72,69,71
+78-5226371,male,group C,master's degree,free/reduced,no,completed,69,66,65,67
+75-0455669,female,group C,high school,standard,no,none,62,64,63,63
+82-6920451,female,group C,some high school,standard,yes,none,40,48,49,46
+52-6627122,male,group C,some college,free/reduced,no,completed,55,68,60,61
+53-3824211,male,group D,high school,standard,yes,completed,77,77,78,77
+34-0106870,male,group D,some college,standard,yes,completed,63,70,71,68
+78-4870172,male,group D,associate's degree,standard,yes,completed,85,85,91,87
+76-3064904,female,group B,high school,free/reduced,no,none,30,43,40,38
+82-9095244,male,group B,high school,standard,no,none,82,77,71,77
+12-9821317,male,group D,associate's degree,free/reduced,no,completed,81,71,70,74
+34-5155237,female,group C,some high school,standard,yes,completed,92,100,97,96
+64-4075825,male,group B,some college,free/reduced,no,none,50,48,36,45
+58-0091625,female,group B,associate's degree,standard,no,none,54,60,56,57
+41-8712332,male,group C,associate's degree,standard,yes,completed,76,83,78,79
+40-7988523,female,group D,some high school,standard,no,none,60,68,74,67
+47-2402495,female,group A,associate's degree,free/reduced,yes,completed,45,72,66,61
+06-4993339,male,group D,high school,standard,yes,none,80,77,72,76
+66-8785400,male,group D,some high school,free/reduced,no,none,52,45,48,48
+20-0899182,female,group C,high school,standard,yes,completed,90,89,97,92
+23-9596711,female,group D,high school,free/reduced,no,none,53,65,69,62
+80-9872683,female,group C,associate's degree,standard,yes,none,92,95,95,94
+36-9120835,female,group C,some college,standard,no,completed,63,78,75,72
+25-0220818,female,group B,some high school,standard,yes,none,71,77,79,76
+14-0817682,female,group D,some high school,standard,no,none,64,70,73,69
+47-5338584,female,group C,some college,standard,no,completed,67,81,89,79
+04-4570239,male,group C,high school,free/reduced,yes,none,63,63,61,62
+75-2012836,male,group B,high school,standard,yes,none,63,53,44,53
+01-4533729,male,group C,some high school,standard,no,none,59,49,46,51
+30-7668867,male,group E,high school,standard,no,none,49,43,35,42
+33-5123674,female,group D,master's degree,standard,no,none,75,84,86,82
+12-6257800,female,group C,some high school,free/reduced,no,none,34,47,45,42
+98-6191697,female,group B,associate's degree,free/reduced,yes,none,53,70,69,64
+40-1115180,male,group B,master's degree,standard,no,none,63,56,60,60
+10-3987238,male,group C,associate's degree,standard,yes,none,75,69,65,70
+94-9188858,male,group E,associate's degree,free/reduced,yes,none,63,61,62,62
+44-5803716,female,group C,high school,standard,yes,none,70,72,75,72
+68-6482194,female,group C,some college,standard,no,none,61,73,70,68
+71-7109390,male,group C,associate's degree,standard,no,none,74,61,59,65
+35-5356635,male,group D,associate's degree,free/reduced,yes,none,57,49,48,51
+13-1165211,male,group C,some high school,free/reduced,no,completed,41,52,47,47
+35-0319193,male,group D,some high school,standard,yes,none,87,80,76,81
+73-3877378,male,group C,high school,free/reduced,yes,none,69,71,62,67
+56-7633269,male,group C,associate's degree,free/reduced,yes,none,69,77,70,72
+96-1049296,male,group D,high school,standard,yes,completed,58,56,56,57
+53-3930552,female,group B,some college,free/reduced,yes,completed,47,69,62,59
+26-0667018,male,group D,associate's degree,standard,yes,completed,78,69,71,73
+15-7034235,female,group B,some college,free/reduced,yes,completed,54,61,71,62
+71-9171320,male,group C,some college,free/reduced,no,none,36,27,26,30
+93-0882613,male,group B,bachelor's degree,standard,no,completed,94,92,92,93
+52-8928627,female,group D,associate's degree,free/reduced,yes,none,68,84,80,77
+95-5347498,female,group E,high school,standard,yes,none,90,88,84,87
+63-3333951,male,group A,some college,standard,no,none,57,57,53,56
+86-9420876,male,group D,some college,standard,yes,completed,96,95,90,94
+25-6181503,male,group B,some high school,standard,yes,completed,68,63,62,64
+32-5983528,female,group C,some high school,standard,no,completed,52,64,63,60
+95-8241080,male,group E,associate's degree,standard,no,none,90,76,73,80
+55-5126707,male,group C,some college,free/reduced,yes,completed,71,82,75,76
+72-5123367,female,group C,some college,free/reduced,no,completed,58,69,74,67
+44-1303501,male,group C,some high school,free/reduced,no,none,41,39,34,38
+19-5449708,male,group D,some high school,standard,yes,completed,43,37,43,41
+46-5820484,male,group D,high school,standard,yes,none,85,70,71,75
+66-0003988,male,group B,some high school,standard,yes,none,71,72,69,71
+80-0981688,female,group A,high school,standard,no,none,72,70,72,71
+63-9477416,male,group D,associate's degree,free/reduced,yes,none,70,62,66,66
+87-6676621,female,group D,bachelor's degree,standard,yes,none,89,100,100,96
+15-2450894,female,group E,high school,standard,no,none,92,86,82,87
+37-9613271,male,group E,some college,free/reduced,yes,completed,80,79,81,80
+76-9376844,male,group C,some high school,standard,yes,none,80,70,60,70
+83-5889192,female,group B,high school,standard,no,none,56,64,59,60
+53-4847341,male,group E,high school,free/reduced,yes,none,93,86,73,84
+27-3610675,male,group C,associate's degree,free/reduced,yes,completed,49,37,41,42
+50-3011870,female,group E,master's degree,standard,no,none,59,57,58,58
+88-2948417,female,group C,some high school,standard,no,completed,64,74,75,71
+37-6137827,male,group D,some high school,standard,yes,none,73,66,59,66
+61-4496758,female,group B,some college,standard,yes,completed,82,86,90,86
+37-5343969,male,group D,high school,free/reduced,yes,none,48,43,41,44
+03-4190764,female,group A,some high school,free/reduced,yes,completed,51,64,62,59
+12-4982343,female,group E,some high school,free/reduced,yes,completed,38,46,43,42
+25-7129972,male,group B,some college,free/reduced,no,none,45,50,42,46
+84-2980615,female,group A,some college,standard,no,completed,83,92,95,90
+89-4723076,female,group B,some high school,standard,no,completed,45,57,56,53
+75-7039155,male,group D,high school,free/reduced,yes,none,66,64,62,64
+25-1185605,male,group D,high school,free/reduced,yes,completed,60,62,57,60
+09-5599943,male,group C,associate's degree,standard,yes,none,49,47,49,48
+70-8234001,male,group D,bachelor's degree,standard,no,none,80,84,86,83
+53-2391214,male,group E,high school,standard,yes,none,75,68,66,70
+84-1487259,male,group B,some college,free/reduced,no,completed,57,68,61,62
+88-4853222,female,group B,some high school,free/reduced,no,none,25,36,37,33
+86-8908958,male,group E,some college,free/reduced,no,none,90,87,81,86
+72-5430411,female,group D,some college,standard,yes,none,63,70,71,68
+94-6981971,male,group E,associate's degree,standard,yes,none,100,91,86,92
+41-9228281,male,group C,associate's degree,free/reduced,yes,none,76,68,66,70
+85-0020358,female,group B,some high school,free/reduced,yes,none,52,58,53,54
+85-4308148,female,group B,master's degree,standard,no,completed,81,86,93,87
+41-1605160,male,group C,associate's degree,standard,no,completed,90,89,87,89
+98-8368430,male,group D,associate's degree,standard,no,none,83,82,81,82
+36-1142150,female,group B,high school,standard,no,none,61,73,69,68
+83-9925102,female,group E,associate's degree,standard,yes,completed,79,69,75,74
+02-4045436,male,group B,some college,standard,yes,none,52,53,51,52
+63-1089808,female,group B,bachelor's degree,standard,yes,completed,62,65,67,65
+33-3757935,female,group D,some college,standard,yes,none,85,90,84,86
+36-6737977,female,group E,high school,free/reduced,yes,completed,74,96,95,88
+42-7524624,male,group C,associate's degree,free/reduced,yes,none,83,85,78,82
+95-0131625,male,group C,some college,standard,yes,none,78,72,72,74
+48-3390267,female,group C,high school,free/reduced,no,none,41,43,40,41
+28-9744126,female,group A,high school,standard,no,none,77,91,87,85
+69-6341106,male,group C,bachelor's degree,standard,no,none,95,99,91,95
+70-8847005,female,group B,high school,free/reduced,no,none,50,68,66,61
+33-6988640,male,group C,some college,standard,no,none,74,76,70,73
+12-4723286,female,group D,bachelor's degree,standard,no,completed,74,93,93,87
+86-8191210,male,group E,high school,standard,no,none,70,62,61,64
+53-6218951,male,group D,associate's degree,free/reduced,yes,none,61,59,54,58
+63-4160374,female,group A,master's degree,standard,no,completed,94,100,100,98
+46-1393145,female,group D,high school,standard,yes,none,66,84,77,76
+01-0123872,female,group D,master's degree,standard,yes,none,83,88,93,88
+59-0776260,male,group D,high school,standard,no,none,75,63,60,66
+56-4257691,male,group D,high school,free/reduced,no,completed,56,65,63,61
+43-9033847,female,group B,some college,free/reduced,yes,none,66,88,83,79
+41-6597371,female,group B,high school,free/reduced,yes,none,61,69,66,65
+89-1928101,male,group C,some high school,standard,yes,completed,70,79,73,74
+15-6776934,male,group C,master's degree,standard,yes,none,57,59,53,56
+81-4529809,female,group C,associate's degree,free/reduced,yes,completed,78,89,90,86
+32-4888689,female,group C,some high school,standard,yes,none,62,76,67,68
+79-7232810,male,group C,some high school,standard,yes,completed,64,53,49,55
+56-2418636,female,group B,high school,free/reduced,no,none,55,66,65,62
+75-0400370,female,group D,some college,standard,no,none,72,83,83,79
+79-5300453,male,group A,some college,free/reduced,no,none,49,48,42,46
+03-3402196,female,group D,some college,standard,yes,none,62,60,63,62
+90-9118433,male,group B,some high school,free/reduced,no,none,76,73,68,72
+32-8404957,female,group C,master's degree,standard,no,completed,73,86,85,81
+21-8435096,female,group C,associate's degree,standard,yes,completed,72,76,78,75
+55-6651192,male,group C,high school,standard,no,none,85,85,76,82
+25-3185814,male,group A,some college,free/reduced,no,none,71,68,65,68
+51-4819134,female,group C,some high school,free/reduced,yes,none,28,38,31,32
+87-6454158,male,group C,high school,free/reduced,yes,none,41,42,38,40
+71-8274281,male,group E,associate's degree,standard,yes,none,78,72,68,73
+79-5447062,male,group C,master's degree,free/reduced,yes,none,48,52,44,48
+72-0497915,male,group C,associate's degree,free/reduced,yes,none,38,51,47,45
+20-2391263,female,group A,bachelor's degree,standard,no,completed,91,100,100,97
+72-5376589,female,group D,bachelor's degree,standard,yes,none,71,81,80,77
+19-5944538,female,group D,bachelor's degree,standard,yes,none,84,87,92,88
+74-2852660,male,group E,associate's degree,free/reduced,no,completed,63,60,63,62
+96-3883532,female,group A,associate's degree,standard,yes,completed,70,78,87,78
+60-1081037,male,group B,bachelor's degree,free/reduced,no,completed,48,52,57,52
+75-8839354,male,group D,some high school,standard,no,completed,68,72,73,71
+10-0237416,female,group D,some college,standard,no,none,84,84,87,85
+90-7022436,male,group D,high school,standard,no,none,61,62,60,61
+35-6749723,male,group C,some high school,free/reduced,no,none,62,59,62,61
+52-2932832,female,group C,master's degree,free/reduced,no,none,66,78,83,76
+40-0971592,female,group C,high school,standard,no,completed,52,65,71,63
+92-6225758,female,group D,some college,standard,yes,completed,68,75,73,72
+48-2018757,male,group D,some college,free/reduced,yes,completed,62,68,71,67
+32-5159230,male,group E,bachelor's degree,standard,no,completed,90,88,84,87
+91-6882486,female,group A,master's degree,free/reduced,no,none,42,50,44,45
+37-2940574,male,group D,associate's degree,free/reduced,yes,completed,74,90,89,84
+45-9692428,male,group B,associate's degree,standard,yes,completed,62,61,61,61
+04-7161824,male,group C,some college,standard,no,none,56,55,50,54
+71-8257544,male,group C,high school,free/reduced,no,none,64,52,54,57
+09-6529205,male,group D,high school,standard,no,completed,79,84,80,81
+09-2205885,female,group C,some high school,standard,yes,none,44,65,63,57
+50-2627706,female,group B,some college,standard,no,completed,69,94,87,83
+84-1725623,male,group A,some college,standard,yes,none,53,48,48,50
+26-4176774,male,group C,high school,standard,no,none,74,69,61,68
+55-6721413,male,group C,associate's degree,standard,no,none,49,55,48,51
+28-6151260,female,group D,associate's degree,free/reduced,yes,none,57,71,71,66
+29-3615498,female,group D,master's degree,standard,yes,none,61,72,64,66
+95-0757224,female,group C,master's degree,free/reduced,yes,none,65,88,84,79
+85-2400710,female,group C,some college,standard,no,none,51,60,52,54
+58-2352493,female,group C,some high school,standard,yes,none,49,51,41,47
+49-9535724,male,group B,master's degree,free/reduced,no,none,56,65,56,59
+20-4332222,male,group D,associate's degree,standard,yes,none,65,62,63,63
+96-8280385,male,group D,some college,standard,no,none,70,64,62,65
+80-2308615,male,group D,some college,standard,no,none,91,95,88,91
+43-5805189,female,group D,high school,standard,no,completed,48,56,64,56
+15-4810167,female,group C,associate's degree,standard,yes,completed,94,99,100,98
+21-1070281,male,group B,master's degree,standard,no,none,77,76,73,75
+03-1191891,female,group D,some high school,standard,no,none,59,78,75,71
+42-0931521,female,group C,some college,free/reduced,yes,none,57,75,70,67
+37-5372368,female,group C,some high school,standard,yes,none,76,82,74,77
+79-3602599,male,group D,high school,standard,yes,none,65,63,64,64
+87-0568480,female,group B,master's degree,standard,no,completed,75,75,83,78
+14-6245754,male,group D,master's degree,standard,no,none,70,66,65,67
+10-8710767,male,group C,high school,standard,yes,completed,79,79,70,76
+74-5161786,male,group E,associate's degree,standard,no,completed,100,100,100,100
+44-5007564,female,group A,bachelor's degree,standard,yes,completed,83,96,99,93
+89-7469610,female,group C,associate's degree,free/reduced,yes,none,70,84,78,77
+00-4068912,male,group E,some high school,standard,yes,completed,97,80,88,88
+59-6235150,female,group E,high school,free/reduced,no,none,33,32,35,33
+03-5389736,male,group B,master's degree,free/reduced,yes,none,38,40,41,40
+41-6718032,male,group C,some college,standard,no,completed,46,51,47,48
+88-2956240,female,group D,some college,free/reduced,yes,none,13,36,37,29
+62-5651643,male,group A,master's degree,standard,no,none,85,83,78,82
+16-1782892,female,group B,some college,standard,no,none,79,79,80,79
+22-9723136,female,group B,some high school,standard,no,none,76,81,79,79
+46-8050081,female,group C,some high school,free/reduced,yes,completed,53,70,65,63
+95-1184482,male,group A,high school,standard,no,completed,68,70,63,67
+33-7620130,male,group D,associate's degree,free/reduced,yes,completed,67,70,70,69
+35-0405548,male,group E,some college,standard,yes,completed,100,84,88,91
+49-0550318,male,group C,associate's degree,free/reduced,yes,none,54,48,45,49
+88-4841838,female,group E,associate's degree,free/reduced,no,none,72,73,70,72
+38-2899199,male,group A,some college,standard,yes,completed,,,,
+32-2971377,male,group D,master's degree,standard,yes,completed,87,81,86,85
+32-6980084,female,group D,associate's degree,free/reduced,yes,none,66,75,74,72
+13-7889725,male,group C,some high school,standard,no,none,65,66,64,65
+31-9373480,female,group E,associate's degree,free/reduced,yes,completed,41,56,53,50
+51-8781327,female,group C,associate's degree,standard,yes,none,67,69,65,67
+16-3043177,male,group E,high school,standard,no,none,94,89,86,90
+16-6880220,female,group B,bachelor's degree,free/reduced,yes,completed,57,70,68,65
+97-6460916,male,group A,high school,standard,no,none,89,83,80,84
+18-7459168,male,group A,associate's degree,standard,no,completed,77,73,80,77
+79-3496914,male,group C,some high school,standard,no,none,57,60,50,56
+69-2546704,male,group D,some college,standard,no,completed,72,72,72,72
+04-7847592,male,group D,bachelor's degree,standard,no,completed,98,94,95,96
+75-7773335,female,group D,master's degree,standard,no,none,87,97,100,95
+94-6394174,male,group C,some high school,free/reduced,yes,none,61,57,55,58
+69-3588609,female,group C,master's degree,standard,no,none,85,100,97,94
+65-7829078,female,group D,some high school,standard,no,none,81,85,91,86
+90-4969158,female,group D,high school,standard,yes,completed,74,84,79,79
+60-1058854,male,group C,bachelor's degree,standard,no,none,98,92,90,93
+79-9624781,female,group D,some college,standard,yes,none,,,,
+52-7324534,male,group C,bachelor's degree,standard,yes,completed,85,81,82,83
+73-2062216,male,group C,some college,standard,yes,none,68,71,63,67
+45-1817451,female,group E,high school,free/reduced,no,completed,66,78,77,74
+12-1226597,male,group B,some high school,free/reduced,no,completed,75,74,71,73
+31-6610772,male,group C,bachelor's degree,standard,yes,none,79,57,58,65
+11-3434139,female,group B,bachelor's degree,free/reduced,yes,none,59,85,82,75
+74-4041773,male,group B,master's degree,free/reduced,yes,none,60,62,58,60
+21-1863462,male,group D,high school,standard,yes,none,69,60,54,61
+41-5981180,female,group B,high school,free/reduced,no,none,49,54,58,54
+45-2385742,male,group D,some college,standard,no,none,62,44,52,53
+51-6065789,female,group E,high school,free/reduced,no,completed,70,84,83,79
+01-8667271,male,group D,bachelor's degree,standard,yes,none,71,57,60,63
+75-0500054,male,group C,bachelor's degree,standard,yes,none,71,69,65,68
+79-0981002,female,group C,some high school,free/reduced,no,none,50,59,54,54
+54-3811210,female,group B,high school,standard,yes,none,52,55,57,55
+13-6902848,male,group E,some college,free/reduced,yes,completed,75,65,66,69
+52-4493850,female,group C,bachelor's degree,standard,no,none,51,64,63,59
+38-4765747,male,group C,some high school,standard,no,none,,,,
+80-3074447,female,group A,some college,free/reduced,no,completed,65,76,72,71
+76-9825361,male,group B,master's degree,standard,no,none,99,81,87,89
+31-8010863,female,group B,associate's degree,standard,no,none,60,62,58,60
+97-3129628,female,group B,some college,standard,no,none,70,78,80,76
+91-3714358,male,group A,some college,standard,no,completed,77,76,77,77
+39-8887958,male,group B,high school,free/reduced,yes,none,37,28,23,29
+32-2895056,male,group E,associate's degree,free/reduced,yes,none,73,73,61,69
+79-1056315,female,group B,associate's degree,free/reduced,no,completed,53,74,75,67
+11-5176004,female,group B,associate's degree,standard,no,none,67,58,62,62
+42-0919534,female,group B,some college,free/reduced,no,none,67,79,80,75
+45-4699588,male,group B,high school,free/reduced,yes,none,51,57,50,53
+48-0055918,male,group D,high school,standard,yes,completed,64,71,70,68
+89-6890122,male,group E,some college,free/reduced,yes,none,55,42,43,47
+58-0172697,male,group D,associate's degree,free/reduced,yes,completed,55,39,51,48
+69-4732984,male,group E,associate's degree,standard,yes,none,,,,
+56-5235731,female,group B,master's degree,standard,no,none,71,88,85,81
+72-1938444,male,group C,high school,free/reduced,no,none,71,63,64,66
+90-6400316,female,group C,some high school,free/reduced,yes,none,51,67,69,62
+09-2717820,female,group E,some college,standard,no,completed,75,76,85,79
+16-9647804,male,group C,some high school,free/reduced,no,none,45,31,27,34
+77-0517032,male,group B,some high school,standard,yes,none,59,54,48,54
+94-1430758,female,group E,high school,free/reduced,no,none,64,69,68,67
+95-9433773,male,group A,some college,standard,no,completed,78,69,73,73
+57-1859034,male,group D,high school,free/reduced,no,none,59,61,58,59
+87-7563995,male,group E,bachelor's degree,free/reduced,yes,none,80,70,71,74
+40-8903431,male,group B,associate's degree,standard,yes,completed,68,82,77,76
+42-6638219,female,group B,associate's degree,standard,no,none,77,81,79,79
+16-0183026,male,group C,high school,standard,yes,none,66,67,64,66
+71-4126175,female,group C,some college,free/reduced,yes,completed,,,,
+89-3009440,male,group D,some college,standard,no,completed,80,66,69,72
+70-2941477,female,group D,some high school,free/reduced,yes,none,48,62,61,57
+64-6449417,female,group A,associate's degree,standard,no,none,52,64,55,57
+54-0313529,female,group D,master's degree,free/reduced,no,none,54,64,64,61
+56-9245967,female,group C,some college,standard,yes,completed,59,68,67,65
+87-7042451,male,group D,high school,standard,yes,none,77,62,65,68
+06-4999619,female,group B,some college,free/reduced,no,none,64,70,69,68
+93-3524572,male,group D,high school,standard,no,none,83,72,68,74
+81-1380223,male,group E,high school,free/reduced,no,none,70,73,69,71
+35-2897087,male,group C,some high school,standard,no,none,72,68,67,69
+44-6349290,female,group B,associate's degree,standard,yes,none,83,78,79,80
+27-5601322,female,group B,associate's degree,standard,yes,none,52,58,57,56
+97-2295276,female,group C,some college,free/reduced,yes,completed,53,73,74,67
+35-3661528,male,group D,some college,standard,yes,none,55,55,55,55
+96-9617729,male,group C,associate's degree,standard,no,none,65,63,61,63
+32-7609563,female,group E,some high school,standard,no,none,,,,
+62-1203010,male,group E,high school,free/reduced,no,completed,64,62,59,62
+75-1001773,male,group C,associate's degree,standard,no,none,71,72,69,71
+44-5513740,male,group C,bachelor's degree,free/reduced,no,completed,61,71,65,66
+18-8006801,male,group D,associate's degree,standard,no,none,61,55,58,58
+63-1359433,female,group C,master's degree,standard,no,none,65,74,79,73
+20-5700782,female,group D,some high school,standard,no,completed,71,83,89,81
+27-6759331,male,group E,associate's degree,free/reduced,no,none,48,49,44,47
+18-0119751,male,group E,high school,free/reduced,yes,completed,75,80,75,77
+05-0331497,male,group D,associate's degree,free/reduced,yes,none,54,66,65,62
+36-6275051,female,group C,master's degree,standard,no,none,70,64,65,66
+44-7387184,male,group D,some high school,standard,no,none,91,77,72,80
+95-9648438,female,group D,some high school,standard,no,completed,33,44,50,42
+37-9044882,female,group B,high school,standard,no,none,45,50,41,45
+53-7562679,male,group A,high school,free/reduced,no,none,45,33,32,37
+81-2460766,male,group D,bachelor's degree,free/reduced,yes,none,62,61,57,60
+51-2691658,male,group E,associate's degree,free/reduced,no,completed,92,79,77,83
+64-2682798,female,group D,some college,standard,no,none,,,,
+70-9161489,female,group C,high school,standard,yes,completed,81,79,83,81
+23-9003772,male,group C,associate's degree,free/reduced,no,none,76,71,66,71
+32-9830204,female,group C,associate's degree,standard,yes,completed,57,72,73,67
+42-7781074,male,group A,some college,free/reduced,yes,none,63,61,55,60
+71-6268403,female,group D,high school,standard,yes,completed,57,62,73,64
+36-9912236,female,group B,some college,standard,yes,completed,46,65,64,58
+77-2367493,male,group E,some high school,free/reduced,no,completed,49,50,45,48
+64-2650052,female,group D,some high school,standard,no,none,54,60,65,60
+57-5881044,male,group C,some high school,standard,yes,completed,89,87,90,89
+33-6322935,male,group D,bachelor's degree,standard,no,completed,77,70,78,75
+77-8622773,female,group C,bachelor's degree,standard,yes,none,46,63,60,56
+55-1138102,male,group B,associate's degree,standard,yes,completed,66,59,70,65
+73-8490428,female,group C,high school,standard,yes,none,48,63,53,55
+76-6246495,male,group D,associate's degree,standard,yes,completed,83,76,81,80
+80-1798261,male,group C,high school,standard,no,completed,69,75,74,73
+42-1332951,male,group E,bachelor's degree,free/reduced,yes,none,73,52,54,60
+27-5792456,female,group D,some college,standard,no,none,43,59,59,54
+61-6485129,male,group D,master's degree,standard,yes,completed,91,84,83,86
+46-6907231,male,group C,associate's degree,standard,no,completed,49,58,55,54
+73-5471521,male,group B,master's degree,standard,no,none,87,86,84,86
+55-7880907,male,group B,some high school,standard,yes,completed,46,46,44,45
+30-3656086,female,group D,some high school,standard,yes,completed,63,61,71,65
+21-6431958,male,group E,bachelor's degree,standard,no,none,100,83,86,90
+91-5056142,female,group E,bachelor's degree,standard,no,none,86,87,89,87
+66-1310752,female,group A,some high school,free/reduced,yes,completed,55,73,70,66
+77-7546719,female,group E,master's degree,free/reduced,yes,none,84,100,99,94
+07-1681778,female,group B,some high school,free/reduced,no,none,39,51,48,46
+76-8590251,male,group B,high school,standard,yes,none,67,57,52,59
+15-6226381,female,group D,some high school,standard,yes,completed,85,100,97,94
+71-2334039,male,group C,some high school,standard,yes,none,64,51,44,53
+32-1862104,female,group E,associate's degree,standard,no,none,81,77,74,77
+18-5886753,male,group C,associate's degree,standard,no,none,78,71,67,72
+36-3896568,female,group B,some high school,standard,yes,none,59,59,58,59
+33-5001278,male,group C,associate's degree,standard,yes,none,74,76,70,73
+39-2354479,female,group B,some college,free/reduced,yes,completed,31,29,35,32
+81-5357041,female,group C,some high school,free/reduced,no,completed,54,55,65,58
+66-1558341,male,group C,high school,free/reduced,no,none,51,51,45,49
+54-9125679,female,group B,bachelor's degree,free/reduced,no,completed,57,65,68,63
+09-6054901,female,group C,some high school,free/reduced,yes,none,39,50,49,46
+94-6573812,male,group C,some college,standard,no,none,64,48,48,53
+90-0496983,male,group C,master's degree,free/reduced,yes,completed,69,79,72,73
+33-1686973,male,group A,some high school,standard,yes,none,58,50,47,52
+04-1520170,female,group D,high school,standard,yes,none,63,71,75,70
+82-7312119,male,group E,associate's degree,standard,yes,none,74,73,67,71
+45-3445439,male,group E,some college,free/reduced,no,none,78,84,77,80
+02-3651562,male,group A,some college,standard,no,completed,78,78,74,77
+05-5203587,female,group B,some college,standard,yes,none,75,76,81,77
+13-3347050,male,group D,some college,standard,no,completed,70,60,65,65
+08-2637214,male,group D,some college,standard,yes,none,67,55,53,58
+41-9017513,female,group C,associate's degree,standard,yes,none,87,93,88,89
+34-8754089,male,group C,some college,standard,no,none,69,63,66,66
+63-2354337,female,group A,associate's degree,standard,yes,none,58,54,58,57
+60-7819083,male,group E,high school,free/reduced,yes,completed,86,82,75,81
+73-6308339,male,group C,high school,standard,yes,none,73,70,65,69
+45-3166879,male,group D,associate's degree,free/reduced,no,completed,85,91,92,89
+33-6250599,female,group C,some high school,free/reduced,yes,none,32,35,41,36
+07-1472760,female,group C,some college,standard,yes,none,73,74,82,76
+60-3740216,male,group A,some college,standard,yes,completed,65,60,62,62
+24-4659058,female,group A,some college,standard,no,none,77,86,84,82
+68-0902182,female,group B,associate's degree,standard,no,none,64,62,66,64
+20-0111886,female,group D,high school,free/reduced,no,completed,61,69,68,66
+35-9252052,male,group D,associate's degree,standard,no,none,97,88,85,90
+90-0496983,male,group C,master's degree,free/reduced,yes,completed,69,79,72,73
+33-1686973,male,group A,some high school,standard,yes,none,58,50,47,52
+04-1520170,female,group D,high school,standard,yes,none,63,71,75,70
+82-7312119,male,group E,associate's degree,standard,yes,none,74,73,67,71
+45-3445439,male,group E,some college,free/reduced,no,none,78,84,77,80
+02-3651562,male,group A,some college,standard,no,completed,78,78,74,77
+05-5203587,female,group B,some college,standard,yes,none,75,76,81,77
+13-3347050,male,group D,some college,standard,no,completed,70,60,65,65
