@@ -1,0 +1,8 @@
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Almohada Dragon Ball', 1100, 40, 'almohada_db.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Almohada Naruto', 1500, 30, 'almohada_nar.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Campera SNK', 2500, 100, 'campera_snk.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Campera Naruto', 2800, 20, 'campera_nar.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Libreta Death Note', 700, 15, 'libreta_deathNote.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Llaveros Naruto', 500, 60, 'llavero_naruto.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Vestido Misa Amane', 5500, 10, 'misa_amane.jpg');
+INSERT INTO producto (nombre, precio, stock, imagen) VALUES ('Funko Kimetsu No Yaiba', 2000, 80, 'kimetsu.jpg');

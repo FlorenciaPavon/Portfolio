@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://img.freepik.com/vector-premium/conjunto-iconos-tema-japones_17583-18.jpg);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.info-contenedor{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem 1rem;
+
+}
+
+
+.info {    
+    width: auto;   
+    font-family: 'Poppins', sans-serif;
+    padding: 1rem;
+    background: rgb(240, 238, 238);
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+.info h1 {
+    color:rgb(250, 50, 10);
+    padding-bottom: 1rem;
+}
+
+.info ul{
+    padding-left: 1rem;
+    margin: 1rem 1rem;
+}
+
+.iframe-contenedor {
+    background:  rgb(238, 235, 208);
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+.iframe-contenedor iframe {
+    margin-top: 1rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (min-width: 320px) {
+    .info {
+        width: 90%;
+    }
+
+    .iframe-contenedor {
+        padding-bottom: 75%;
+    }
+}
+
+@media (min-width: 768px) {
+    .info {
+        width: 70%;
+    }
+
+    .iframe-contenedor {
+        padding-bottom: 70%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .info {
+        width: 50%;
+    }
+
+    .iframe-contenedor {
+        padding-bottom: 56.25%;
+    }
+}

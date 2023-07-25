@@ -1,0 +1,28 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;     
+}
+
+body {
+    background-image: url(https://img.freepik.com/vector-premium/conjunto-iconos-tema-japones_17583-18.jpg);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;        
+}
+
+.container {       
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info {
+    font-family: 'Oxygen', sans-serif;
+    padding: 1rem;
+    background:  rgb(240, 238, 238);
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 50%;
+}

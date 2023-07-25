@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Empleados</title>
+
+</head>
+
+<body>
+    <div class="container w-auto mx-auto p-3" >       
+        
+        <div class="d-flex flex-column justify-content-center align-items-center" style="height: 100vh;">
+            <h3 class="mx-3">Ingrese los siguientes datos:</h3>
+            <div class="form-floating my-3 mx-auto">
+                <input type="text" id="user" class="form-control  bg-secondary" id="floatingInput" placeholder="nombre-usuario">
+                <label for="floatingInput" class="text-white">Usuario</label>
+            </div>
+            <div class="form-floating my-3 mx-auto">
+                <input type="password" id="pass"class="form-control bg-secondary" id="floatingPassword" placeholder="Contraseña">
+                <label for="floatingPassword" class="text-white">Contraseña</label>
+            </div>
+            <div>
+                <input type="button" class="btn btn-success mx-auto d-block mb-2" type="submit" value="Entrar" onclick="validar(), permisos()"></input>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="js/login.js"></script>
+</html>
+
+

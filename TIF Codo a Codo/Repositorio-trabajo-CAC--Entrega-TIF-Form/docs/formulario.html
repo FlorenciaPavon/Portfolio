@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto</title>
+    <link rel="stylesheet" href="/css/stylesheetform.css">
+</head>
+<body>
+    <div class="contenedor">           
+        <form action="https://formspree.io/f/xpzenrzb"
+  method="POST" id="formulario"> 
+            <h3>¿QUÉ CUENTAN ; )?</h3>
+            <div class="datos">
+                <div class="campo">
+                    <label for="nombre">Nombre</label>
+                    <input type="text" id="nombre">               
+                </div>
+                <div class="campo">
+                    <label for="apellido">Apellido</label>
+                    <input type="text" id="apellido">                
+                </div>
+                <div class="campo"> 
+                    <label for="email">Email</label>
+                    <input type="email" id="email" required>                
+                </div>
+            </div>
+             
+            <div class="texto">
+                <textarea name="mensaje" id="mensaje" cols="30" rows="10">
+                </textarea>
+            </div>
+            <div class="checkbox">
+                <input type="checkbox" id="">
+                <label for="novedades" >Deseo recibir novedades a mi casilla de email.</label>
+            </div>                 
+               
+                <input type="submit" class="submit" value="Enviar" onclick="alert('Gracias por tu mensaje! :D')">
+                <input type="reset" class="reset" value="Limpiar">
+           
+        </form>    
+    </div>
+</body>
+</html>
