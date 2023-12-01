@@ -1,4 +1,4 @@
-En esta sección se presentan varios proyectyos que he ido realizando en el transcurso de estos días/ meses.
+En esta sección se presentan varios proyectos que he ido realizando en el transcurso de estos días/ meses.
 
 También pueden ingresar al siguiente link para ver mas informacíon al respecto:
 
