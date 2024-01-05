@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,400&display=swap');
+
+:root {
+    --primary: #3155e7;
+    --primary-dark: #2045d6;
+    --back: #010101;
+    --gray-1: #788190;
+    --gray-2: #d3d4db;
+    --white: #ffffff;
+}
+
+body {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: var(--body);    
+}
+
+.navbar .btn-outline-secondary {
+    border: 1px solid var(--gray-2);
+    color: var(--black);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 10px 16px;
+}
+
+.navbar {
+    padding: 32px 0;
+}
+
+
+img.brand-icon {
+    width: 65px;
+}
+  
+
+.nav-link {
+    margin-left: 41px;
+    font-size: 16px;
+    color: var(--gray-1);
+}
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.nav-img {
+    width: 40px;
+    padding-left: 10px;
+    align-self: flex-start; 
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: var(--black);
+}
+
+section.hero{
+    padding: 80px 0;    
+}
+
+section.hero .text {
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 73px;
+    color: var(--black);
+}
+
+
+.animation {
+    animation-delay: 2s;
+    animation-duration: 2s;
+    animation-fill-mode: none, backwards;
+}
+  
+.animation {
+    animation-name: fadeOutTopRight;
+}  
+
+.buttons {
+    padding-top: 25px;
+}
+
+.buttons .btn {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    margin-right: 5px;
+}
+
+.download-text {
+    padding-top: 30px;    
+}
+
+section.setup {
+    padding: 28px 0;
+}
+
+section.setup .text-header h3 {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 48px;
+    color: var(--black);
+}
+
+section.setup .text-header p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    color: var(--gray-1);
+    padding: 27px 0;
+}
+
+section.setup .icons {
+    padding: 27px 0;
+       
+}
+
+.img {
+    width: 70px;
+}
+
+section.setup h5 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: var(--back);
+    padding-bottom: 18px;
+}
+
+section.setup .desc p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 22px;
+    color: var(--gray-1);
+    max-width: 284px;
+    margin: 0 auto;
+}
+
+section.information .text-information{
+    padding: 134px 0;
+}
+
+section.information h5 {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 48px;
+    color: var(--back);
+}
+
+section.information p {
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 48px;
+    color: var(--back);
+    padding-top: 20px;
+}
+
+section.information .info-1{
+    padding: 183px 0;
+}
+
+footer {
+    padding-top: 279px;
+    margin-bottom: 44px;    
+}
+
+footer a {
+    font-weight: bold;
+    font-size: 14px;
+    color: var(--back);
+    line-height: 18px;
+}
+
+footer.copy {
+    margin-top: 32px;
+    font-size: 14px;
+    color: var(--gray-1)
+
+}
+
+/*responsive section */
+
+@media (max-width: 576px) {
+    /*Navbar*/
+    .navbar {
+        padding: 20px 0;
+    }
+
+    .nav-link {
+        margin-left: 0;
+    }
+
+    /*Hero section*/
+    .section.hero img {
+        padding-top: 2.5rem;
+    }
+
+    .section.hero .text {
+        font-weight: 800;
+        font-size: 38px;
+        line-height: 53px;
+    }
+
+    section.hero,
+    section.setup,
+    section.information {
+        text-align: center;
+    }
+
+    .buttons .btn {
+        display: block;
+        margin: 1rem 0;
+    }
+
+    .buttons .ms-3 {
+        margin-left: 0 !important;
+    }
+
+    /*setup section*/
+    section.setup {
+        padding: 50px 0;
+    }
+    
+    /*footer*/
+
+    footer {
+        padding-top: 50px;
+        margin-bottom: 44px;
+    }
+}    

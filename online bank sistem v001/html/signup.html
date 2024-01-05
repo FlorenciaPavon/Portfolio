@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>    
+    <link rel="stylesheet" href="/assets/css/loginstyles.css">
+    <link rel="icon" href="favicon-16x16.png">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+  <div class="back">
+
+    <div class="registration-form">
+        <header>
+          <div class="welcome">
+            <h1>Welcome to HannaCo Bank</h1>
+            <img src="/assets/img/brand/hannako.png" alt="brand-icon" class="brand-icon" ></a>   
+          </div>
+            <h2>Sign Up</h2>
+            <p>Fill in all informations</p>
+        </header>
+        <form>
+            <div class="input-section email-section">
+                <input type="email" placeholder="ENTER YOUR E-MAIL HERE" autocomplete="off" class="email">
+                <div class="animated-button">
+                    <span class="icon-paper-plane">
+                        <i class="fa fa-envelope-o"></i>
+                    </span>
+                    <span class="next-button email">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+            </div>
+            <!--user input-->
+            <div class="input-section user-section folded">
+                <input type="text" name="user" placeholder="ENTER A USERNAME" class="user">
+                <div class="animated-button">
+                    <span class="icon-lock">
+                        <i class="fa fa-lock"></i>
+                    </span>
+                    <span class="next-button user">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+            </div>
+            <!--password input-->              
+            <div class="input-section password-section folded">
+                <input type="password" placeholder="ENTER YOUR PASSWORD HERE" class="password">
+                <div class="animated-button">
+                    <span class="icon-lock">
+                        <i class="fa fa-lock"></i>
+                    </span>
+                    <span class="next-button password">
+                        <i class="fa fa-arrow-up"></i>
+                    </span>
+                </div>
+            </div>
+             <!--repeat password -->
+            <div class="input-section repeat-password-section folded">
+                <input type="password" placeholder="REPEAT YOUR PASSWORD HERE" class="repeat-password">
+                <div class="animated-button">
+                    <span class="icon-repeat-lock">
+                        <i class="fa fa-lock"></i>
+                    </span>
+                    <button type="submit"  method="POST" class="next-button repeat-password">
+                        <i class="fa fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="success">
+                <p>ACCOUNT CREATED</p>
+            </div>
+        </form>
+    </div>
+  </div>
+  <script src="/js/login.js"></script>  
+  <script src="https://kit.fontawesome.com/77d8b95173.js" crossorigin="anonymous"></script>
+</body>
+</html>
+
