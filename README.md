@@ -1,5 +1,5 @@
 
-Informacion para el Bank Sistem
+Informacion para el Bank System
 
 Hola me llamo Florencia Pavón, esta es la informacion importante para el mencionado proyecto:
 
