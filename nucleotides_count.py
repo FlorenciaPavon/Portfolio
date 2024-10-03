@@ -16,7 +16,7 @@ st.write ("""
 """
 )
 
-example = st.expander('Ejample Inputs')
+example = st.expander('Example Inputs')
 example.markdown("example inputs in nucleotides.txt file")
 
 
